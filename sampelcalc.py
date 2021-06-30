@@ -1,5 +1,5 @@
 dafafagfsgsg
-
+ffdfdf
 
 from tkinter import *
 from math import *
